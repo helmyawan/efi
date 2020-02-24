@@ -1,2 +1,5 @@
-# efi
+# EFI FOR AMD FX
 AMD FX EFI
+
+FX8370E
+GTX 970
