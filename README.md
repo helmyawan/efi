@@ -1,0 +1,2 @@
+# efi
+AMD FX EFI
